@@ -1,2 +1,2 @@
 Account: admin@gmail.com 
-Pass: 123456
+Pass: admin
